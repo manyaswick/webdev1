@@ -15,4 +15,4 @@ There are assets included in the webpaint folder for you to use. You will create
 
 All files (HTML, CSS, Images, **[NOT YOUR PSD's]**) are to be submitted to GitHub and uploaded to a folder on the Circuslabs server named “Webpaint”. You will need to validate your HTML & CSS as well as test & submit the CircusLabs URL in your GitHub commit.
 
-This is all due the Monday after our Week 5 class @ 2:00pm.
+This is all due Monday @ 2:00am before our Week 5 class.
