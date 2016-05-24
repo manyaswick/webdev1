@@ -10,4 +10,4 @@ Like the previous websites, there are assets for you to import and bring into yo
 
 All files (HTML, CSS, Images, **[NOT YOUR PSD's]**) are to be submitted to GitHub and uploaded to a folder on the Circuslabs server named “Spice”. You will need to validate your HTML & CSS as well as test & submit the CircusLabs URL in your GitHub commit.
 
-This is all due Monday @ 2:00am before our Week 9 class.
+This is all due Monday @ 2:00am before our Week 10 class.
